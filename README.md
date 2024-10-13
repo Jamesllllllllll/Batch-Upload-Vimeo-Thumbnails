@@ -8,13 +8,13 @@ This app will allow to choose a folder from your Vimeo Library and upload an ima
 
 ## How to Use
 
--1. Copy .env.example to .env, create a Vimeo app and add your credentials
-0. Add any thumbnail images you want to use in the /thumbnails folder in this project
-1. From the project root folder, run `npm install`
-2. Run `node thumbnails.js`
-3. Enter the number that represents the folder of your choice
-4. Enter the file name of the image you want as the thumbnail
-5. Enjoy! The previous active thumbnail will be preserved.
+0. Copy .env.example to .env, create a Vimeo app and add your credentials
+1. Add any thumbnail images you want to use in the /thumbnails folder in this project
+2. From the project root folder, run `npm install`
+3. Run `node thumbnails.js`
+4. Enter the number that represents the folder of your choice
+5. Enter the file name of the image you want as the thumbnail
+6. Enjoy! The previous active thumbnail will be preserved.
 
 ### Note
 
